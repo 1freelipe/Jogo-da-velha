@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1746731732 source:c:\c++\jogodavelha\main.cpp
+	<iostream>
+	<locale>
+
